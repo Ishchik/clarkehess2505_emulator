@@ -1,0 +1,18 @@
+21/06/2019 11:18:41: Open: D:\clarke-hess_emulator\table 07 12 2015 16 01 48_LEMI142N12old.txt
+21/06/2019 11:18:45: Set: MinFreq: 5E0. MaxFreq: 8E3
+21/06/2019 11:18:46: Set: MinFreq: 5E0. MaxFreq: 8E3
+21/06/2019 11:18:46: Set: MinFreq: 5E0. MaxFreq: 8E3
+21/06/2019 11:18:46: Set: MinFreq: 5E0. MaxFreq: 8E3
+21/06/2019 11:19:12: Start: 1E2
+21/06/2019 11:19:19: End: 2E6
+21/06/2019 11:19:21: Steps: 100
+21/06/2019 11:19:21: Set: MinFreq: 1E2. MaxFreq: 2E6
+21/06/2019 11:19:44: End: 2E5
+21/06/2019 11:19:47: Steps: 100
+21/06/2019 11:19:48: Set: MinFreq: 1E2. MaxFreq: 2E5
+21/06/2019 11:19:59: End: 5E5
+21/06/2019 11:20:02: Steps: 100
+21/06/2019 11:20:02: Set: MinFreq: 1E2. MaxFreq: 5E5
+21/06/2019 11:27:31: Amplitude: 1.5
+21/06/2019 11:28:41: Save:clarkehess.ini
+21/06/2019 11:28:41: Exit program
